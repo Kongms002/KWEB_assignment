@@ -10,3 +10,11 @@ git clone https://github.com/your-username/your-project.git
 ```
 yarn install
 ```
+3. <strong>Run the Project:</strong> Once the dependencies are installed, you can run the project using the appropriate command. This could be `yarn dev`, `yarn start`, or any other command specified in the project's documentation.
+
+4. <strong>Access the Project:</strong> After starting the project, you should be able to access it in your web browser. Open your preferred browser and navigate to the appropriate URL as specified in the project documentation.
+
+5. <strong>(Sensitive).env File Setting:</strong> This is settings of .env file.
+```
+VITE_API_URL=http://127.0.0.1:5000/api
+```
