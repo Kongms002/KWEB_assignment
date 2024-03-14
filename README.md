@@ -16,5 +16,5 @@ yarn install
 
 5. <strong>(Sensitive).env File Setting:</strong> This is settings of .env file.
 ```
-VITE_API_URL=http://127.0.0.1:5000/api
+VITE_API_URL=
 ```
